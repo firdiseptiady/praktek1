@@ -32,6 +32,13 @@ public class kapalAksi {
         C.Warna_kapal="campuran";
         C.Tempat_duduk="kelas VVIP";
         C.Pelampung="perahu karet";
+        
+        A.cetakInfo();
+        System.out.println();
+        B.cetakInfo();
+        System.out.println();
+        C.cetakInfo();
+        System.out.println();
     }
    
 }
