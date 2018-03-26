@@ -11,7 +11,9 @@ package praktek1;
  */
 public class kapalAksi {
     public static void main(String[] args) {
-        
+        kapal A = new kapal();
+        kapal B = new kapal();
+        kapal C = new kapal();
     }
    
 }
