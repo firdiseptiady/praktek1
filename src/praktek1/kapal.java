@@ -11,4 +11,5 @@ package praktek1;
  */
 public class kapal {
     
+    
 }
